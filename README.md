@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/Ghostly-Development/11264bfd-80ef-400e-aade-652523fa0993/31cdda88-6d89-46e9-9667-b370fd2fd181/_apis/work/boardbadge/f083fe4c-c064-49ed-8c76-40bb5962b89f)](https://dev.azure.com/Ghostly-Development/11264bfd-80ef-400e-aade-652523fa0993/_boards/board/t/31cdda88-6d89-46e9-9667-b370fd2fd181/Microsoft.RequirementCategory)
 # Cloudflare Tunnel client
 
 Contains the command-line client for Cloudflare Tunnel, a tunneling daemon that proxies traffic from the Cloudflare network to your origins.
